@@ -2,6 +2,7 @@
 <h3 align="center">AI/ML Enthusiast</h3>
 <h3 align="center">Computer Engineering Bachelor Degree Senior Year Student</h3>
 <h3 align="center">Artificial Intelligence and Machine Learning Minor Degree Student</h3>
+<hr>
 
 - 🔭 I’m currently working on **Skin Disease Diagnosis Model Based on Multimodal Data with Explainable AI**
 
